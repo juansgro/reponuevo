@@ -1,0 +1,7 @@
+h1 {
+  color: red; }
+  h1 p {
+    column-rule: yellow; }
+
+p {
+  column-rule: red; }
